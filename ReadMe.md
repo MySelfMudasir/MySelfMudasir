@@ -1,4 +1,4 @@
-<!-- [![Alt text](kwork_PavloBondarenko_12.jpg)](https://pavlobondarenko. net) -->
+[![Alt text](https://raw.githubusercontent.com/MySelfMudasir/MySelfMudasir/refs/heads/main/Copy%20of%20Title.png)](https://github.com/MySelfMudasir)
 
 <h1 align="center">Hi, I'm Mudasir! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
@@ -12,7 +12,7 @@
 </p>
 
 
-![GitHub Snake](https://github.com/MySelfMudasir/MySelfMudasir/blob/main/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/MySelfMudasir/MySelfMudasir/b5f3c1e03dae01172a8d61fa6c791d8d9addbb70/github-snake-dark.svg)
 
 <!-- ![Metrics](https://metrics.lecoq.io/MySelfMudasir?template=classic&lines=1&topics=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&config.timezone=Asia%2FKarachi) -->
 
