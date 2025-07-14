@@ -1,4 +1,5 @@
-[![Alt text](https://raw.githubusercontent.com/MySelfMudasir/MySelfMudasir/refs/heads/main/Copy%20of%20Title.png)](https://github.com/MySelfMudasir)
+<!-- [![Alt text](https://raw.githubusercontent.com/MySelfMudasir/MySelfMudasir/refs/heads/main/Copy%20of%20Title.png)](https://github.com/MySelfMudasir) -->
+
 
 <h1 align="center">Hi, I'm Mudasir! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pavlo_bondarenko_visitor_badge_simple&left_color=royalblue&right_color=black"  />
